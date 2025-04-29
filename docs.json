@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "ECTA Documentation",
   "colors": {
-    "primary": "#16A34A",
+    "primary": "#2d3943",
     "light": "#07C983",
-    "dark": "#15803D"
+    "dark": "#161c21"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -38,19 +38,9 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "anchor": "Discord",
+          "href": "https://discord.gg/p6WDwHEU3p",
           "icon": "discord"
-        },
-        {
-          "anchor": "Community",
-          "href": "https://mintlify.com/community",
-          "icon": "slack"
-        },
-        {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
         }
       ]
     }
@@ -68,7 +58,7 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Panel",
       "href": "https://panel.ecta.games"
     }
   }
